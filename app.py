@@ -2,6 +2,8 @@ import streamlit as st
 import joblib
 from newspaper import Article
 
+newspaper.config.parser = 'html.parser'
+
 # Load the trained model and vectorizer
 model = joblib.load("model.pkl")
 vectorizer = joblib.load("vectorizer.pkl")
