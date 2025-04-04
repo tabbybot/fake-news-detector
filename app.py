@@ -1,6 +1,6 @@
 import streamlit as st
 import joblib
-from newspaper3k import Article
+from newspaper import Article
 
 # Load the trained model and vectorizer
 model = joblib.load("model.pkl")
