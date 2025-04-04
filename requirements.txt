@@ -4,4 +4,3 @@ pandas
 numpy
 newspaper3k
 joblib
-string
