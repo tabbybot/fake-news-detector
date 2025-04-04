@@ -3,5 +3,3 @@ scikit-learn
 pandas
 numpy
 newspaper3k
-lxml
-newspaper
