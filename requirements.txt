@@ -3,3 +3,6 @@ scikit-learn
 pandas
 numpy
 newspaper3k
+re
+joblib
+string
