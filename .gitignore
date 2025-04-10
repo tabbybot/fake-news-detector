@@ -172,9 +172,3 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
-
-# local models
-local_model/
-
-# large pickle files
-test_data_bundle.pkl
