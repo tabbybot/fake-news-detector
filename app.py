@@ -8,9 +8,10 @@ import numpy as np
 model = joblib.load("model.pkl")
 vectorizer = get_vectorizer()
 
-st.title("Fake News Detector (created by tabbybot et al. 2025)")
+st.title("Fake News Detector 📰")
 st.header("Fake News Detector from URL")
 st.write("Note: Our project may not be able to extract news articles from certain websites due to web scraping being blocked")
+st.write("tabbybot et al. 2025)
 url = st.text_input("Paste a news article URL here")
 
 if url:
