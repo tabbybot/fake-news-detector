@@ -1,0 +1,2 @@
+local_model/ filter=lfs diff=lfs merge=lfs -text
+test_data_bundle.pkl filter=lfs diff=lfs merge=lfs -text
