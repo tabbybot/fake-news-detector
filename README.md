@@ -22,7 +22,7 @@ If you wish to train the model on your machine, just run:
 ```
 python model.py
 ```
-This might take a lot of time, depending on your machine, and CUDA is available to you.  
+This might take a lot of time, depending on your machine, and whether CUDA is available to you.  
   
 If you wish to train the model with new dataset, just replace the files in data/ folder.
 
@@ -34,7 +34,7 @@ python evaluate.py
 ## Screenshot
 
 ## Questions or Suggestions
-Feel free to create issues here as you need.
+Feel free to create [issues](https://github.com/tabbybot/fake-news-detector/issues) here as you need.
 
 ## Contribute
 Contributions to this project are very welcome! Feel free to fork this project, work on it and then make a pull request.
@@ -43,7 +43,7 @@ Contributions to this project are very welcome! Feel free to fork this project, 
 - tabbybot (Tabish Perwaiz)
 
 ## License
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/tabbybot/fake-news-detector/blob/main/LICENSE) file for details.
 
 ## Donate
 You can integrate and use these projects in your applications for Free! You can even change the source code and redistribute. However, if you get some profit from this or you just want to encourage me, feel free to
