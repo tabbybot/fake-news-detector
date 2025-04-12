@@ -32,7 +32,7 @@ python evaluate.py
 ```
 
 ## Screenshot
-[!(assets/app_demo.gif)]
+![(assets/app_demo.gif)]
 
 ## Questions or Suggestions
 Feel free to create [issues](https://github.com/tabbybot/fake-news-detector/issues) here as you need.
