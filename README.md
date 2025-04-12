@@ -32,6 +32,7 @@ python evaluate.py
 ```
 
 ## Screenshot
+[![Donate](assets/buy_me_a_coffee.jpg)]
 
 ## Questions or Suggestions
 Feel free to create [issues](https://github.com/tabbybot/fake-news-detector/issues) here as you need.
@@ -47,9 +48,5 @@ This project is licensed under the MIT License - see the [LICENSE](https://githu
 
 ## Donate
 You can integrate and use these projects in your applications for Free! You can even change the source code and redistribute. However, if you get some profit from this or you just want to encourage me, feel free to
-
-
 [![Donate](assets/buy_me_a_coffee.jpg)](https://buymeacoffee.com/tabbybot)
-
-
 Thank you!
